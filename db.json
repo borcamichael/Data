@@ -1,5 +1,6 @@
 {
-"events":[{
+        "events": [
+        {
         "id":"1",
         "category":"Something cool",
         "title":"Party at Night",
@@ -20,5 +21,6 @@
         "time":"anytime",
         "petsAllowed":"true",
         "organizer":"me"
-      }]
       }
+]
+}
