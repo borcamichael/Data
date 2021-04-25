@@ -1,24 +1,24 @@
 {
-events:[{
-        id:1,
-        category:"Something cool",
-        title:"Party at Night",
-        description:"Rave Till Dawn",
-        location:"here",
-        date:"Today",
-        time:"anytime",
-        petsAllowed:true,
-        organizer:"me"
+"events":[{
+        "id":1,
+        "category":"Something cool",
+        "title":"Party at Night",
+        "description":"Rave Till Dawn",
+        "location":"here",
+        "date":"Today",
+        "time:""anytime",
+        "petsAllowed":true,
+        "organizer:""me"
       },
       {
-        id:2,
-        category:"Something cool",
-        title:"Party at Night",
-        description:"Rave Till Dawn",
-        location:"here",
-        date:"Today",
-        time:"anytime",
-        petsAllowed:true,
-        organizer:"me"
+        "id":2,
+        "category":"Something cool",
+        "title":"Party at Night",
+        "description":"Rave Till Dawn",
+        "location":"here",
+        "date":"Today",
+        "time":"anytime",
+        "petsAllowed":true,
+        "organizer":"me"
       }]
       }
